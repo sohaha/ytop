@@ -8,4 +8,4 @@ edition = "2018"
 hex = "0.4.0"
 reqwest = "0.10"
 sha2 = "0.8.1"
-tokio = { version = "0.2", features = ["full"] }
+tokio = { version = "1.13", features = ["full"] }
